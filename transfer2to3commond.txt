@@ -1,0 +1,6 @@
+python D:\engpath\Anaconda\Tools\scripts\2to3.py -w DetectChars.py
+python D:\engpath\Anaconda\Tools\scripts\2to3.py -w DetectPlates.py
+python D:\engpath\Anaconda\Tools\scripts\2to3.py -w Main.py
+python D:\engpath\Anaconda\Tools\scripts\2to3.py -w PossibleChar.py
+python D:\engpath\Anaconda\Tools\scripts\2to3.py -w PossiblePlate.py
+python D:\engpath\Anaconda\Tools\scripts\2to3.py -w Preprocess.py
